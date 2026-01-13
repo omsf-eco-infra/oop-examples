@@ -1,0 +1,6 @@
+name: omsf-eco-infra-oop-examples
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - freeze
