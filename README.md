@@ -51,12 +51,6 @@ Each Python file in the `oop_basic_examples` directory demonstrates a specific O
 - `duck_typing.py`: Example of duck typing
 - `object_instance_class.py`: Shows object instances and class relationships
 
-## Requirements
-
-- Python 3.x
-- `freeze` command (for generating PNGs from code)
-- Conda or Mamba package manager
-
 ## Environment Setup
 
 This project includes an `environment.yml` file for creating a dedicated conda/mamba environment:
